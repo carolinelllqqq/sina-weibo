@@ -12,21 +12,21 @@ Additionally, users are allowed to insert graphical emotions or attach own image
 
 Unregistered users can only browse a few posts by verified accounts. Neither unverified account pages nor comments to the posts by verified accounts are accessible to unregistered users.
 
--  ###Verification
+-  Verification
 
 Sina Weibo has an identification policy. It is like Twitter's verified account which could verify the identity of famous person, organization and so on. Once a user gets through the verification on the internet, a colorful V will be added behind their username. An orange V is for people while a blue one is for organizations and companies. Also there will be a graph and a declaration on its user page to show the verification. There are several kinds of verifications: personal verification, college verification, organization verification, verification for official accounts (accounts of government departments, social media platforms and famous companies) weibo master (people bind the accounts with their phone numbers and their followers). When the number of microblogs reach the threshold, they can apply the verification of "weibo master".
 
--  ###Clients
+-  Clients
 
 Sina produced mobile applications for various platforms to access Sina Weibo, the platforms include Android, iOS, Windows phone.Sina also released a desktop client for Microsoft Windows under the product name of Weibo Desktop.
 
--  ###International versions
+-  International versions
 
 Sina Weibo is available in both simplified and traditional Chinese characters. The site also has versions catering to users from Hong Kong and Taiwan. Weibo is now developing its international version in English and other languages. On January 9, Sina Weibo created a partial English Version, most likely being a test run, but was soon taken down in a week.
 
 For the Chinese version, you must be a Chinese citizen to use it. You will be asked to verify your identity either through a valid Chinese cellphone number or a valid Chinese citizen identification number.Sina Weibo's official iPhone and iPad application have English language options.
 
--  ###Other services 
+-  Other services 
 
 Weilingdi (微领地)is another service bundled with Weibo that is similar to foursquare a location-based social networking website based on software for mobile devices, and which grew out of Sina's 2011 joint venture with GeoSentric's GyPSii. Sina's Tuding (图钉) photo-sharing service, similar to Instagram, is also produced by the same joint venture. In addition, Sina Lady Weibo (新浪女性微博) is another service, which specializes in women's interests. Sina weibo have also recently released a desktop version of weibo, available for free download at its websites
 
