@@ -1,4 +1,4 @@
-刘晴 201434026 商英1403班
+#刘晴 201434026 商英1403班
 
 Sina Weibo is a Chinese  microblogging website. Akin to a hybrid of Twitter and Facebook, it is one of the most popular sites in China, in use by well over 30% of Internet users, with a market penetration similar to the United States' Twitter.It was launched by SINA  Corporation on 14 August 2009, and as of December 2012 has 503  million registered users.About 100 million messages are posted each day on Sina Weibo.
 
