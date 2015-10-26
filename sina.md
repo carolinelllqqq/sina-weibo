@@ -30,22 +30,22 @@ For the Chinese version, you must be a Chinese citizen to use it. You will be as
 
 Weilingdi (微领地)is another service bundled with Weibo that is similar to foursquare a location-based social networking website based on software for mobile devices, and which grew out of Sina's 2011 joint venture with GeoSentric's GyPSii. Sina's Tuding (图钉) photo-sharing service, similar to Instagram, is also produced by the same joint venture. In addition, Sina Lady Weibo (新浪女性微博) is another service, which specializes in women's interests. Sina weibo have also recently released a desktop version of weibo, available for free download at its websites
 
-There are still some places to be improved.
+There are still some points to be improved.
 
-Firstly, the favorite shouldn't be put in the item "more". It's not convenient for people to find out their favorite things.
+Firstly, the option "favorite" shouldn't be put in the option "more". It's not convenient for people to find out their favorite things.
 
-Secondly, if you don't follow others,you won't be allowed to visit his or her Weibo.
+Secondly, if you don't follow others,you won't be allowed to visit his or her Weibo. (That's not true.)
 
-And thirdly, ads should be controlled.
+Thirdly, ads should be limited.
 
-Finally,it's better for us to put more than 9 pieces of photos once.
+Finally,it should make it possible for us to put more than 9 pieces of photos once.
 
-What's more,bugs exist still.
+What's more,bugs still exist.
 
-Sometimes it will appear the flash back. And when someone is watching the small video,if he or she touches the screen carelessly,it'll get back to the main page.
+Sometimes it will appear the flash back; and when someone is watching the small video,if he or she touches the screen carelessly,it'll get back to the main page.
 
 Eventually,I have two more requirements.
 
-Firstly,voice commitment should be applied to the app.And secondly,it's better to add the critic function for others commitment except just praising. 
+Firstly,voice comment should be applied to the app. Secondly,it's better to add the critic function for others comments instead of just praising. 
 
-That's all. To sum up,I love Weibo and I hope it could be better in the future.
+To sum up,I love Weibo and I hope it could be better in the future.
